@@ -73,4 +73,4 @@ Within the download you'll find the following directories and files:
 
 ## Contact Us
 
-- Email Us: zeeshan11651@gmail.com
+- Email Us: shanhaider1011@gmail.com
